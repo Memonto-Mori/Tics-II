@@ -1,0 +1,5 @@
+__pycache__/
+db1_init.sql/
+db2_init.sql/
+logs/
+plugins/
